@@ -55,10 +55,10 @@ $\sigma \le [\sigma]$
 静载荷 变载荷 静应力 变应力
 
 循环变应力
-  $\sigma _{max}$   与    $\sigma_{min}$   分别为其最大值和最小值
+  $\sigma_{max}$   与    $\sigma_{min}$   分别为其最大值和最小值
 
 1. 对称循环变应力  
-  $\sigma _{max}$   与   $\sigma_{min}$   绝对值大小相等而方向相反
+  $\sigma_{max}$   与   $\sigma_{min}$   绝对值大小相等而方向相反
 2. 脉动循环变应力  
    $\sigma_{min} = 0$
 3. 非对称循环变应力  
