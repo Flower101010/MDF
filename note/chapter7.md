@@ -30,10 +30,12 @@
 
 ![这是图片](picture/%E6%B8%90%E5%BC%80%E7%BA%BF.png "Magic Gardens")
 
-1. 发生线沿基圆滚过的长度等于基圆上对应的弧长，即$\overline{KN}=\stackrel\frown{AN} $
-2. 渐开线上的任意一点的法线必定与基圆相切，$N$为切点，线段$\overline{KN}$为曲率半径。显然$K$离基圆越远则曲率半径越大。
+1. 发生线沿基圆滚过的长度等于基圆上对应的弧长，即 $\overline{KN}=\stackrel\frown{AN} $
+2. 渐开线上的任意一点的法线必定与基圆相切， $N$ 为切点，线段 $\overline{KN}$ 为曲率半径。显然 $K$ 离基圆越远则曲率半径越大。
 3. 基圆内无渐近线
-4. $\alpha_K$为压力角，$\alpha_k$越大则法向压力$F$沿速度方向的分力越小，径向分力越大。$$\cos \alpha _K = \frac{\overline{ON}}{\overline{OK}}=\frac{r_b}{r_K}$$显然$\alpha_a$不定，随$r_k$的变化而变化，基圆上的压力角等于零。
+4.  $\alpha_K$ 为压力角， $\alpha_k$ 越大则法向压力 $F$ 沿速度方向的分力越小，径向分力越大。
+$$\cos \alpha_K = \frac{\overline{ON}}{\overline{OK}}=\frac{r_b}{r_K}$$
+显然 $\alpha_a$ 不定，随 $r_k$ 的变化而变化，基圆上的压力角等于零。
 5. 渐近线的大小与基圆直径有关，直径越大肩颈先越平直。
 
 渐开线齿轮符合齿廓啮合基本定理。
@@ -42,20 +44,28 @@ $$i_{12}=\frac{r_{b2}}{r_{b1}}$$
 
 ## 直齿圆柱齿轮各部分的名称及标准直齿圆柱齿轮的基本尺寸
 
-> 1. 齿数$z$：齿轮上的轮齿总数
-> 2. 齿顶圆： 过各齿轮齿顶的圆。$d_a , r_a$
-> 3. 齿根圆： 过各齿轮齿根的圆。$d_f , r_f$
-> 4. 齿槽宽$e_K$：齿槽的弧长
-> 5. 齿厚$s_K$：轮齿两轮廓间的弧长
-> 6. 齿距$p_K$：相邻两齿轮同侧齿廓对应点间的弧长,有$$p_K=s_K+e_k$$
-> 7. 分度圆：直径表示为$d,r$
-> 8. 模数$m$：引入模数后有 $$m=\frac{d}{z}$$
-> 9. 压力角$\alpha$：齿轮上任意一点的法线与径向的夹角$$标准压力角 \alpha = 20^\circ$$
-> 10. 齿顶高$h_a$：齿顶圆直径与分度圆直径的差值的一半$$h_a=\frac{d_a-d}{2}$$
-> 11. 齿根高$h_f$：齿根圆直径与分度圆直径的差值的一半$$h_f=\frac{d-d_f}{2}$$
-> 12. 齿顶高系数$h_a^{\ast}$：齿顶高与模数的比值$$h_a^{\ast}=\frac{h_a}{m}$$
-> 13. 顶隙系数$c^{\ast}$：$$c^{\ast}=\frac{c}{m}$$
-> 14. 中心距$a$：两齿轮连心线的距离$$a=\frac{d_1+d_2}{2}$$
+> 1. 齿数 $z$ ：齿轮上的轮齿总数
+> 2. 齿顶圆： 过各齿轮齿顶的圆。 $d_a , r_a$
+> 3. 齿根圆： 过各齿轮齿根的圆。 $d_f , r_f$
+> 4. 齿槽宽 $e_K$ ：齿槽的弧长
+> 5. 齿厚 $s_K$ ：轮齿两轮廓间的弧长
+> 6. 齿距 $p_K$ ：相邻两齿轮同侧齿廓对应点间的弧长,有
+> $$p_K=s_K+e_k$$
+> 7. 分度圆：直径表示为 $d,r$
+> 8. 模数 $m$ ：引入模数后有 
+> $$m=\frac{d}{z}$$
+> 9. 压力角 $\alpha$ ：齿轮上任意一点的法线与径向的夹角
+> $$标准压力角 \alpha = 20^\circ$$
+> 10. 齿顶高 $h_a$ ：齿顶圆直径与分度圆直径的差值的一半
+> $$h_a=\frac{d_a-d}{2}$$
+> 11. 齿根高 $h_f$ ：齿根圆直径与分度圆直径的差值的一半
+> $$h_f=\frac{d-d_f}{2}$$
+> 12. 齿顶高系数 $h_a^{\ast}$ ：齿顶高与模数的比值
+> $$h_a^{\ast}=\frac{h_a}{m}$$
+> 13. 顶隙系数 $c^{\ast}$ ：
+> $$c^{\ast}=\frac{c}{m}$$
+> 14. 中心距 $a$ ：两齿轮连心线的距离
+> $$a=\frac{d_1+d_2}{2}$$
 
 ![这是图片](https://swf.ishare.down.sina.com.cn/2hHSWiAOxI6_vYxIfHY5TOR.jpg?ssig=LdRgE%2FIlOb&Expires=1690718797&KID=sina,ishare&range=1119808-1399780 "Magic Gardens")
 
@@ -84,7 +94,7 @@ $$\varepsilon >1$$
 
 标准直齿圆柱齿轮不发生根切的最少齿数：
 $$z_{min}=\frac{2h_a^\ast}{\sin ^2\alpha}$$
-对于标准压力角$\alpha=20^\circ$，$h_a^\ast =1$，$z_{min}=17$。如果允许轻微根切，$z_{min}=14$。
+对于标准压力角 $\alpha=20^\circ$ ， $h_a^\ast =1$,  $z_{min}=17$  。如果允许轻微根切， $z_{min}=14$  。
 
 ## 齿轮失效
 
@@ -115,9 +125,9 @@ $$z_{min}=\frac{2h_a^\ast}{\sin ^2\alpha}$$
 
 | 名称         | 代号 | 计算公式 |
 | -----------  | ----------- |----------- |
-| 断面模数     | $m_t$       | $m_t =\frac{m_n}{\cos \beta}$, $m_n$为标准值|
+| 断面模数     | $m_t$       | $m_t =\frac{m_n}{\cos \beta}$,  $m_n$ 为标准值|
 | 法相压力角   | $\alpha _n$ | $\alpha _n = 20^\circ$ |
-| 端面压力角   | $\alpha _t$ | $\alpha _t =\arctan \frac{\tan \alpha_n}{\cos \beta}$,$\alpha _n$为标准值 |
+| 端面压力角   | $\alpha _t$ | $\alpha _t =\arctan \frac{\tan \alpha_n}{\cos \beta}$ , $\alpha _n$ 为标准值 |
 | 分度圆直径   | $d$         | $d_1 = z_1m_1=z_1\frac{m_n}{\cos \beta},~d_2 = z_2m_2=z_2\frac{m_n}{\cos \beta}$|
 | 齿顶高       | $h_a$       |  $h_a = h_{an}^ \ast m_n =m_n$ |
 | 齿根高       | $h_f$       |  $h_f = (h_{an}^\ast +c_n ^\ast)m_n=1.25m_n$|
@@ -131,9 +141,9 @@ $$z_{min}=\frac{2h_a^\ast}{\sin ^2\alpha}$$
 当量齿轮：
 $$z_v=\frac{z}{\cos ^3 \beta}$$
 最少齿数：
-由直齿圆柱齿轮知，$z_{vmin}=17$.则有
+由直齿圆柱齿轮知， $z_{vmin}=17$ .则有
 $$z_{min}=17 \cos ^3 \beta$$
-例如$\alpha _n =20^\circ$, $\beta =15^\circ$时，$z_{min}=15$, $\beta =30^\circ$时，$z_{min}=11$
+例如 $\alpha_n =20^\circ$ ,  $\beta =15^\circ$ 时， $z_{min}=15$ ,   $\beta =30^\circ$ 时， $z_{min}=11$
 
 ## 直齿锥齿轮传动
 
@@ -156,11 +166,11 @@ $$z_{min}=17\cos \delta$$
 |齿顶圆直径  |$d_s$|$d_{s1}=d_1+2h_a\cos \delta_1,~d_{s2}=d_2+2h_a\cos \delta_1$|
 |齿根圆直径  |$d_f$|$d_{f1}=d_1-2h_a\cos \delta_1,~d_{f2}=d_2-2h_a\cos \delta_1$|
 |锥距       |$R$|$R=\frac{d}{2\sin \delta }=0.5m\sqrt{z_1^2+z_2^2}$|
-|齿顶角     |$\theta$|不等顶间隙$\theta =\arctan \frac{h_a}{R}$ 等顶间隙$\theta _a = \theta_f$|
+|齿顶角     |$\theta$|不等顶间隙 $\theta =\arctan \frac{h_a}{R}$  等顶间隙 $\theta _a = \theta_f$ |
 |齿根角     |$\theta_f$|$\theta_f =\arctan \frac{h_f}{R}$|
 |齿顶圆锥角 |$\delta_s$|$\delta_{s1}=\delta_1+\theta_a,~\delta_{s2}=\delta_2+\theta_a$|
 |齿根圆锥角 |$\delta_f$|$\delta_{f1}=\delta_1-\theta_f,~\delta_{f2}=\delta_2-\theta_f$|
-|齿宽       |$B$|$B=(0.25\sim 0.35)R$，常取$B=0.3R$|
+|齿宽       |$B$|$B=(0.25\sim 0.35)R$ ，常取 $B=0.3R$|
 
 ## 蜗杆传动
 
@@ -175,7 +185,7 @@ $$z_{min}=17\cos \delta$$
 
 1. 模数相等
 2. 压力角相等
-3. 蜗杆的导程角$\gamma$和蜗轮的螺旋角$\beta$相等旋向相同。
+3. 蜗杆的导程角 $\gamma$ 和蜗轮的螺旋角 $\beta$ 相等旋向相同。
 
 ### 几何尺寸
 
