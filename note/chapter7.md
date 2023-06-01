@@ -67,7 +67,18 @@ $$i_{12}=\frac{r_{b2}}{r_{b1}}$$
 > 14. 中心距 $a$ ：两齿轮连心线的距离
 > $$a=\frac{d_1+d_2}{2}$$
 
-![这是图片](https://swf.ishare.down.sina.com.cn/2hHSWiAOxI6_vYxIfHY5TOR.jpg?ssig=LdRgE%2FIlOb&Expires=1690718797&KID=sina,ishare&range=1119808-1399780 "Magic Gardens")
+| 名称         | 代号 | 计算公式 |
+| -----------  | ----------- |----------- |
+| 分度圆直径   | $d$ | $d_1=mz_1,d_2=mz_2$ |
+| 齿顶高| $h_a$ | $h_a=h_a^\ast m$ |
+| 齿根高| $h_f$ | $h_f=(h_a^\ast+c^\ast) m$ |
+| 齿高| $h$ | $h=h_a+h_f$ |
+| 齿顶圆直径| $d_a$ | $d_{a1}=d+2h_a=m(z_1+2h_a^\ast),d_{a2}=m(z_2+2h_a^\ast )$ |
+| 齿根圆直径| $d_f$ | $d_{f1}=d-2h_f=m(z_1-2(h_a^\ast+c^\ast)),d_{f2}=m(z_2-2(h_a^\ast+c^\ast ))$ |
+| 基圆直径| $d_b$ | $d_{b1}=d\cos \alpha_1 =mz_1\cos \alpha,d_{b2}=mz_2\cos \alpha_2$ |
+| 分度圆齿距| $p$ | $p=\pi m$ |
+| 分度圆齿厚| $s$ | $s=\frac{\pi m}{2}=\frac{p}{2}$ |
+| 中心距| $a$ | $a=\frac{d_1+d_2}{2}=\frac{m(z_1+z_2)}{2}$ |
 
 ## 渐开线齿轮正确啮合和连续传动的条件
 
