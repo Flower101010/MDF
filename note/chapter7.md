@@ -136,7 +136,7 @@ $$z_{min}=\frac{2h_a^\ast}{\sin ^2\alpha}$$
 
 | 名称         | 代号 | 计算公式 |
 | -----------  | ----------- |----------- |
-| 断面模数     | $m_t$       | $m_t =\frac{m_n}{\cos \beta}$,  $m_n$ 为标准值|
+| 端面模数     | $m_t$       | $m_t =\frac{m_n}{\cos \beta}$,  $m_n$ 为标准值|
 | 法相压力角   | $\alpha _n$ | $\alpha _n = 20^\circ$ |
 | 端面压力角   | $\alpha _t$ | $\alpha _t =\arctan \frac{\tan \alpha_n}{\cos \beta}$ , $\alpha _n$ 为标准值 |
 | 分度圆直径   | $d$         | $d_1 = z_1m_1=z_1\frac{m_n}{\cos \beta},~d_2 = z_2m_2=z_2\frac{m_n}{\cos \beta}$|
